@@ -15,7 +15,7 @@ The leaderboard displays the top scores achieved by players. Can you make it to 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/kill-wally-game.git`
+1. Clone the repository: `git clone https://github.com/Ryan-Kaye-Dev/wally-frontend'
 2. Install the necessary dependencies: `npm install`
 3. Start the game: `npm start`
 
